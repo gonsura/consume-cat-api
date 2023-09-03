@@ -1,0 +1,16 @@
+{
+  "name": "pak-eko",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "hello-world.js",
+  "scripts": {
+    "tailwindcss": "npx tailwindcss -i ./src/prod.css -o ./src/main.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
